@@ -111,5 +111,6 @@ span {
 @media (orientation: portrait) {
   main {
     scale: 2.5;
+    max-width: 95%;
   }
 }
