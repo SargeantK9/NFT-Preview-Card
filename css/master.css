@@ -110,6 +110,6 @@ span {
 
 @media (orientation: portrait) {
   main {
-    scale: 2;
+    scale: 2.5;
   }
 }
